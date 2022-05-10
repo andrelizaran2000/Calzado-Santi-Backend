@@ -9,6 +9,6 @@ Calzado Santi.
 * MySQL
 * Typescript
 
-# Arrancar proyecto 
+## Arrancar proyecto 
 * npm i
 * npm start
